@@ -1,0 +1,15 @@
+
+# ignore compiled python files
+*.py[co]
+*.DS_Store
+*.egg-info
+Thumbs.db
+
+/dist
+/bin
+/develop-eggs
+/eggs
+/src
+/var
+/parts
+/mocked-eggs
