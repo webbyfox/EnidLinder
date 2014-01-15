@@ -13,3 +13,5 @@ Thumbs.db
 /var
 /parts
 /mocked-eggs
+/.installed.cfg
+/.mr.developer.cfg
