@@ -1,5 +1,5 @@
 ================================
-Plone 4 buildout for developers
+Plone 4.3.2 buildout for developers
 ================================
 
 .. contents ::
